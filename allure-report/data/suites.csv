@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 06 01:21:18 IST 2023","Mon Mar 06 01:21:18 IST 2023","1","","Launch Volvo application","","","","TC2 :Verify Safety Items",""
+"passed","Mon Mar 06 01:21:18 IST 2023","Mon Mar 06 01:21:18 IST 2023","2","","Launch Volvo application","","","","TC1 : Verify Safety Items",""
+"passed","Mon Mar 06 01:21:19 IST 2023","Mon Mar 06 01:21:19 IST 2023","1","","Launch Volvo application","","","","TC2 :Verify Safety Items",""
+"passed","Mon Mar 06 01:21:19 IST 2023","Mon Mar 06 01:21:19 IST 2023","1","","Launch Volvo application","","","","TC1 : Verify Safety Items",""
